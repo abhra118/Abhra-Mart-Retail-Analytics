@@ -8,6 +8,10 @@ The project transforms raw retail data into a structured dimensional model and a
 
 ![Executive Overview Dashboard](Executive_Overview_Dashboard.png)
 
+### Sales Analysis Dashboard
+
+![Sales Analysis Dashboard](Fina;_page-00011.jpg)
+
 ## Business Objectives
 
 - Monitor overall sales and order performance
