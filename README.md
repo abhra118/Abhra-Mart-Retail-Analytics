@@ -16,7 +16,7 @@ The project transforms raw retail data into a structured dimensional model and a
 
 ### Customer Analysis Dashboard
 
-![Customer Analysis Dashboard](Customer Analysis Dashboard.jpg)
+![Customer Analysis Dashboard](Customer Analysis Dashboard.jpg.jpg)
 
 ### Customer Analysis Dashboard
 
